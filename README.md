@@ -1,0 +1,2 @@
+# CurrencyConverter
+> This is an app that i am developing to improve my skill in java, so this app should be able the convert some currencys that exists, first i will make it convert the currency of my country that is meticais(MZN).
